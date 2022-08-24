@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyButtonOrange" >
+        <item name="android:background">@drawable/button_shape_white</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textColor">@color/orange</item>
+    </style>
+    <style name="MyButtonBlack" >
+        <item name="android:background">@drawable/button_shape_white</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="MyButtonBackgroundOrange" >
+        <item name="android:background">@drawable/button_shape_orange</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
